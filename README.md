@@ -1,3 +1,5 @@
+Nahuel Cotta 15945/4
+
 Requerimientos para jupyter notebook
 
 En una terminal bash o la cmd aplicar los siguientes comandos para la utilizacion de este 
